@@ -1,19 +1,14 @@
-# project2
- Community College Homepage
-
+Community College Homepage
 ## Overview:
 This repository contains the homepage **. This project includes an HTML file (`index.html`) and an external CSS file (`style.css`) to style the webpage. The site serves as a basic introduction to the college, showcasing key features and the mission of the institution. It is designed to provide a clean, professional layout with a focus on accessibility.
-
 ## Features:
 - **Responsive Layout**: The website is designed with mobile-first principles in mind and adjusts well to different screen sizes using CSS media queries.
 - **Navigation Menu**: Easy-to-use navigation links to the core sections of the website.
 - **Hero Section**: Welcoming header with introductory text about the college.
 - **Course and Contact Information**: A list of featured courses and essential contact details for visitors.
-  
-## Folder Structure:
+  ## Folder Structure:
 - `/index.html` - The main HTML file that structures the content.
 - `/style.css` - The external CSS file used for styling the website.
-
 ## Technologies Used:
 - **HTML5** - For content structure.
 - **CSS3** - For styling and layout.
